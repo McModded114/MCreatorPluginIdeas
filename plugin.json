@@ -1,0 +1,12 @@
+{
+  "id": "ai_tasks_plugin",
+  "minversion": 202300200000,
+  "weight": 3001,
+  "javaplugin": "net.mcmodded.aitask.Launcher",
+  "info": {
+    "name": "Custom Ai Tasks Plugin",
+    "version": "1.0.0",
+    "description": "Adds the ability to code in ai tasks for 1.19.4 forge. Only for advanced users.",
+    "author": "McModded114"
+  }
+}
