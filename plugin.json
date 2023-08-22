@@ -1,0 +1,12 @@
+{
+  "id": "armor_trims_plugin",
+  "minversion": 202300100000,
+  "weight": 10,
+  "javaplugin": "net.mcmodded.trims.Launcher",
+  "info": {
+    "name": "Armor Trims Plugin",
+    "version": "1.0",
+    "description": "Adds armor trims for 1.19.4",
+    "author": "McModded114"
+  }
+}
